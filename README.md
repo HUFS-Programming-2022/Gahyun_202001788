@@ -11,7 +11,7 @@
 
 |Week|To-do|
 |--|--|
-|Week 1(3/4)|Github ID|
+|Week 1(0304)|Github ID|
 |Cell1|Cell2|
 |Cell1|Cell2|
 |Cell1|Cell2|
