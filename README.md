@@ -3,13 +3,11 @@
 
 202001788 손가현
 
-LD + SWAI 😊 📓 💻 🧑‍🎓
-
-email address - annason01@hufs.ac.kr
+😊 📓 💻 🧑‍🎓
 
 ---
 
-## python programming 
+## course 
 
 |Week|To-do|
 |--|--|
